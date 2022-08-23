@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', Arial;
+  background-color: aliceblue;
+}
+
+.container {
+  max-width: 1080px;
+  margin: 20px auto;
+}
